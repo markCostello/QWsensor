@@ -38,5 +38,8 @@ Projects in my queue:
 2) Android app for viewing sensor data
 
 3) Try to keep a list of Spotter tools:
-  https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink&hl=en
+  Wink Android app for setup - https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink&hl=en
+  Wink SDK for PHP - https://github.com/ianmaddox/wink/
+  Python library - https://github.com/jso/py-wink
+  node.js interface module - https://github.com/TheThingSystem/node-winkapi
   
