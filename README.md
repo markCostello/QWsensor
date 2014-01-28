@@ -22,12 +22,12 @@ Establish contact with the Quirky.com servers.  I found the quickest to be:
   curl --include --header "Content-Type: application/json"  --request POST  --data-binary "{ \"client_id\": \"YourClientID\",  \"client_secret\":\"YourCLientSecret\",  \"username\":\"YourQuirkyWinkEmail\",  \"password\": \"YourQuirkyWinkPassword\",  \"grant_type\":\"password\"}"  "https://winkapi.quirky.com/"
   
 
-Phase 3
+Phase 2
 =======
 The Wink API docs provide a starting place for several languages.  http://docs.wink.apiary.io/
 
 
-Phase 4
+Phase 3
 =======
 Others and I and perhaps yourself, will be writing code to make it easier to put the Spotter data to use.
 
