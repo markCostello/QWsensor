@@ -33,7 +33,7 @@ Others and I and perhaps yourself, will be writing code to make it easier to put
 
 Projects in my queue:
 
-1) Python 3 code samples.  The Pythin in http://docs.wink.apiary.io/ was Python 2.
+1) Python 3 code samples.  The Python in http://docs.wink.apiary.io/ was Python 2.
 
 2) Android app for viewing sensor data
 
